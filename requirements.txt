@@ -1,0 +1,2 @@
+tkinter  # يأتي مع Python بشكل افتراضي
+reportlab==4.0.4
